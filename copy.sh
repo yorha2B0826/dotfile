@@ -9,6 +9,7 @@ dirs=(
   "$HOME/.config/waybar"
   "$HOME/.config/wlogout"
   "$HOME/.config/wofi"
+  "$HOME/.config/HyprV"
 )
 
 # 循环遍历目录列表并复制整个目录到当前目录
